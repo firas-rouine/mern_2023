@@ -1,0 +1,15 @@
+.content {
+    text-align: left;
+    margin-left: 25px;
+    margin-bottom: 20px;
+  }
+  .card {
+  margin-top: 25px;
+  margin-left: auto;
+  margin-right: auto;
+  width: 30%;
+  border-color: black;
+  border-width: 2px;
+  border-radius: 10px;
+  border-style: solid;
+}
