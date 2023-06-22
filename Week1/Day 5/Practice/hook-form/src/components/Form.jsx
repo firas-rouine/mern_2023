@@ -14,7 +14,7 @@ const Form = (props) => {
         console.log(newUser);
     };
     return (
-        <div className="container d-flex justify-content-center  vh-100">
+        <div className="container d-flex justify-content-center  ">
             <form onSubmit={createUser}>
                 <div className="form-group ">
                     <label>First name: </label>
